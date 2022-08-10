@@ -6,7 +6,7 @@ void handle_cmd_not_found(char *buff, char **cmds_list, char **commands,
 
 /**
  * handling_semicolon_and_operators - Handle semicolon and logical op
- * @buff: first buffer that functions read
+ * @buff: first buffer that functions read 
  * @read: return of read (open with getline)
  * @first_av: av[0]
  * Return: 0 on success
