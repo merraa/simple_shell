@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * build_dynamic_environ - Builds the  "env vars" array using dynamic memory
+ * build_dynamic_environ - Builds the "env vars" array using dynamic memory
 */
 void build_dynamic_environ(void)
 {
