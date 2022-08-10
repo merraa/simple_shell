@@ -19,7 +19,6 @@ int validate_env_name(char *name)
 		print_builtin_error("setenv: Invalid name ", name);
 		return (-1);
 	}
-
 	return (0);
 }
 
