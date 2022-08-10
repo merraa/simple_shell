@@ -2,7 +2,7 @@
 
 /**
  * handle_enter - Check if no command was entered
- * @commands: String of commnands
+ * @commands: String of commnands 
  *
  * Return: 1 if no command was entered(just spaces and ENTER), 0 otherwise
 */
