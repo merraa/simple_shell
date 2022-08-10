@@ -3,7 +3,7 @@
 /**
  * f_strjoin - concatenates string 1 + string 2
  * @s1: string 1
- * @s2: string 2
+ * @s2: string  2
  * Return: copy of string with null terminated char
  */
 char *f_strjoin(char const *s1, char const *s2)
