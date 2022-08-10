@@ -2,7 +2,7 @@
 
 /**
  * _strchr - string scanning operation
- * @s: string 1
+ * @s: string1
  * @c: character to search
  * Return: return a pointer to the byte, or
  * a null pointer if the byte was not found.
