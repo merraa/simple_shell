@@ -13,7 +13,6 @@ void env(void)
 		write(STDOUT_FILENO, env[i], _strlen(env[i]));
 		write(STDOUT_FILENO, "\n", 1);
 	}
-
 	set_process_exit_code(0);
 }
 
