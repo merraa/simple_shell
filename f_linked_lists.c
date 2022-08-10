@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * print_list - Print the lists
+ * print_list - Print the lists 
  * @h: list with format list_t
  * Return: number of nodes of the list
  */
