@@ -106,6 +106,5 @@ int other_set_buitlins(char **commands)
 		/*_history();*/
 		/*return (1);*/
 	}
-
 	return (0);
 }
