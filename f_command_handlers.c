@@ -60,7 +60,6 @@ int count_args(char *str_input, char *delimiter)
 		count++;
 		tkn_ptr = NULL;
 	}
-
 	free(str_copy);
 
 	return (count);
