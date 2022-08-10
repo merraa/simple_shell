@@ -2,7 +2,7 @@
 
 /**
  * allocate_memory - Manages the allocation of memory
- * @bytes: Number representing the size in bytes to allocate
+ * @bytes: Number representing the size in bytes to allocate 
  *
  * Return: Pointer to the newly allocated memory
 */
