@@ -9,7 +9,6 @@
 char *handle_comment(char *str_input)
 {
 	char *without_comments = str_input;
-
 	if (*str_input == '#')
 	{
 		*str_input = '\n';
